@@ -1,5 +1,5 @@
 # Orchestrating Enterprise AI and ML workfloads
- Snippets of system design, good practices, and tradeoffs 
+ Snippets of system design, good practices, and tradeoffs<br> 
  for orchestrating AI and ML workloads in an enterprise environment.
 
 ## Content

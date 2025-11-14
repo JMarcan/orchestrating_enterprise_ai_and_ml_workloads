@@ -3,11 +3,11 @@
  for orchestrating AI and ML workloads in an enterprise environment.
 
 ## Content
+- [Design choices for enterprise data platform](design_choices_for_enterprise_data_platform)
 - [Deploying ML model to production](/system_design_for_model_deployment_to_production)
 
 ## Content roadmap
 - Establishing agentic mesh
-- Design choices for enterprise data platform
 - Integrating a company context into enterprise chatbot
 - Fine-tuning vs RAG vs prompt engineering tradeoffs
 - Validating models and selecting right KPIs
